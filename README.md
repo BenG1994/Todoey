@@ -4,7 +4,7 @@ Todoey is a todo list app that allows you to create different categories for you
 
 ## Introduction
 
-Pixel City is from a tutorial by Angelu Yu with the focus on working with tableviews, saving data with both CoreData and Realm, along with implementing SwipeCellKit to delete items from tables.
+Todoey is from a tutorial by Angelu Yu with the focus on working with tableviews, saving data with both CoreData and Realm, along with implementing SwipeCellKit to delete items from tables.
 
 ## Skills used
 
